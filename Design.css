@@ -70,3 +70,14 @@ li {
 .delete-btn:hover {
   background: #b52b27;
 }
+
+.search {
+  width: 85%;
+  margin-top: 14px;
+}
+
+footer {
+  margin-top: 20px;
+  font-size: 12px;
+  color: #888;
+}
